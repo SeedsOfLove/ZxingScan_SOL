@@ -23,6 +23,6 @@ allprojects {
 ### Step 2. Add the dependency
 ```
 dependencies {
-        implementation 'com.github.SeedsOfLove:ZxingScan_SOL:1.0.0'
+        implementation 'com.github.SeedsOfLove:ZxingScan_SOL:1.0.1'
 	}
 ```
