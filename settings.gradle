@@ -1,0 +1,3 @@
+include ':zxingscanlib'
+include ':app'
+rootProject.name = "ZxingScan_SOL"
